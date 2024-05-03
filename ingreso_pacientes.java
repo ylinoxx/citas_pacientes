@@ -1,4 +1,4 @@
-package citas_pacientes;
+
 
 import java.sql.Date;
 import java.util.LinkedList;

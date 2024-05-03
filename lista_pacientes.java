@@ -1,4 +1,3 @@
-package citas_pacientes;
 
 import java.sql.Date;
 
